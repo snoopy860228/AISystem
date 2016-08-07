@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AISystem.iml" filepath="$PROJECT_DIR$/AISystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatingactionbutton-1.0.0-sources/floatingactionbutton-1.0.0-sources.iml" filepath="$PROJECT_DIR$/floatingactionbutton-1.0.0-sources/floatingactionbutton-1.0.0-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.paho.android.service-1.1.0/org.eclipse.paho.android.service-1.1.0.iml" filepath="$PROJECT_DIR$/org.eclipse.paho.android.service-1.1.0/org.eclipse.paho.android.service-1.1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.paho.android.service-1.1.0-javadoc/org.eclipse.paho.android.service-1.1.0-javadoc.iml" filepath="$PROJECT_DIR$/org.eclipse.paho.android.service-1.1.0-javadoc/org.eclipse.paho.android.service-1.1.0-javadoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.paho.client.mqttv3-1.1.0/org.eclipse.paho.client.mqttv3-1.1.0.iml" filepath="$PROJECT_DIR$/org.eclipse.paho.client.mqttv3-1.1.0/org.eclipse.paho.client.mqttv3-1.1.0.iml" />
+    </modules>
+  </component>
+</project>
